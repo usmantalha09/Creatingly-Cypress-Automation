@@ -1,0 +1,56 @@
+{
+  "LoaderTextLocator":"div#single-spa-application:home",
+  "LoaderText": "please wait...",
+  "loginTextLocator": "div a",
+  "LoginEmailLocator": "//input[@name='email']",
+  "LoginPasswordLocator": "//input[@name='password']",
+  "LoginSubmitButton":"//input[@type='submit']",
+  "recaptcaLocator":"span#recaptcha-anchor",
+  "homeArtBoard":"//div[@name='Draw Artboard']",
+  "yesButton":"//a[@id='NXConfirmButtonOk']",
+  "desktopTempletes":"//i[@name='Desktop Templates']",
+  "desktopTempleteOne":"//div[@name='Desktop Template1']",
+  "settingIcon_RightNav":"//li[@titlex='Configuration']",
+  "heightValueType":"//div[text()='Min-height']//following-sibling::div//select",
+  "heightValueInput":"//div[text()='Min-height']//following-sibling::div//input",
+  "widthValueType":"//div[text()='Width']//following-sibling::div//select",
+  "widthValueInput":"//div[text()='Width']//following-sibling::div//input",
+  "titleValueInput":"//div[text()='Title']//following-sibling::div//input",
+  "actionButtonElement":"//div[@data-testid='Action Button']",
+  "circleActionButton":"(//div[@data-testid='Circle'])[last()]",
+  "layoutIcon_RightNav":"//li[@titlex='Layout']",
+  "centerButton":"//button[text()=' C | C ']",
+  "stretchVertically":"//span[text()='Stretch Vertically']",
+  "stretchHorizontally":"//span[text()='Stretch Horizontally']",
+
+
+
+"SignUpButton_LoginPage":"//a[contains(@href,'signup')]",
+"fullNameInput":"//input[@name='fullName']",
+"emailInput":"//input[@name='email']",
+"accountNameInput":"//input[@name='account']",
+"passwordInput":"//input[@name='password']",
+"submitSignUpButton":"//input[@value='Signup']",
+"signUpSuccessMessage":"//*[contains(text(),'Thank you for Signing up with us.')]",
+"emailErrorMessage":"//div[@data-validate='Email is required and must be valid']",
+"passwordErrorMessage":"//div[@data-validate='Password is required']",
+"robotCheckBoxErrorMessage":"//div[text()='check the box and prove you are not Robot']",
+
+
+"signUpEmailErrorMessage":"//div[@data-validate='Email is required']",
+"signUpAccountNameErrorMessage":"//div[@data-validate='Account Name is required. Special characters not allowed']",
+"signUpPasswordErrorMessage":"//div[@data-validate='Password is required and must be good']",
+
+
+"forgetPasswordSubmitButton":"//input[@type='submit']",
+"forgetPassword_EmailErrorMessage":"//div[@data-validate='Email is required and must be valid']"
+  
+
+
+
+
+
+
+
+  
+}

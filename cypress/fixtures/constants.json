@@ -1,0 +1,11 @@
+{
+  "url": "https://dev-login.platform.creatingly.com/login",
+  "SignUpUrl":"https://dev-login.platform.creatingly.com/signup",
+  "forgetPasswordUrl":"https://dev-login.platform.creatingly.com/forgot-password",
+  "urlToVisitDashboard": "https://dev.platform.creatingly.com/webstudio",
+  "email": "usmantalha09@gmail.com",
+  "password": "usman@12345",
+  "fullName": "Usman Tester",
+  "registeredEmail": "usman@gmail.com",
+  "accountName": "TestAccount"
+}
